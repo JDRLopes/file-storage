@@ -1,0 +1,74 @@
+{
+  "contractName": "FileStorage",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.13+commit.abaa5c0e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/FileStorage.sol\":\"FileStorage\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/FileStorage.sol\":{\"keccak256\":\"0x39947d00fe67c0f13c4bb2cf6b026a3bef731542e26154180a1c06e5c25e8ae0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://f5b3288f96cfca90407d70499e747556173434295c21dbbd8d42f39023988398\",\"dweb:/ipfs/QmQ8akmyT8C6e5gPfvksnRF5dUP8R9agcqC2w4MSEuXicC\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a8b0bb2a8287c6c644e575140e04848358536f969f66a5fa63e415df2ce0f57e64736f6c634300080d0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a8b0bb2a8287c6c644e575140e04848358536f969f66a5fa63e415df2ce0f57e64736f6c634300080d0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "57:25:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "57:25:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity 0.8.13;\n\ncontract FileStorage {\n\n}",
+  "sourcePath": "/home/lopes/Projects/file-storage/contracts/FileStorage.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/FileStorage.sol",
+    "exportedSymbols": {
+      "FileStorage": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "0.8",
+          ".13"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "FileStorage",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "FileStorage",
+        "nameLocation": "66:11:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "57:25:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:50:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.13+commit.abaa5c0e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.7",
+  "updatedAt": "2022-05-10T18:11:53.919Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
